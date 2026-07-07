@@ -25,3 +25,9 @@ The entire stack (API, frontend, and database) runs with a single command. No ma
 
 ### Steps
 1. Clone this repository:
+
+
+2. Create a `.env` file in the project root (copy `.env.example`):
+```
+   cp .env.example .env
+```
