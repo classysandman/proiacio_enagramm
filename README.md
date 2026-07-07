@@ -25,6 +25,7 @@ The entire stack (API, frontend, and database) runs with a single command. No ma
 
 ### Steps
 1. Clone this repository:
+https://github.com/classysandman/proiacio_enagramm.git
 
 
 2. Create a `.env` file in the project root (copy `.env.example`):
